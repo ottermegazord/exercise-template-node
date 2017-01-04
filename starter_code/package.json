@@ -1,7 +1,7 @@
 {
   "name": "starter_code",
   "version": "1.0.0",
-  "description": "lowdb storage",
+  "description": "Template for node exercises",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -10,7 +10,7 @@
     "test": "mocha"
   },
   "keywords": [
-    "lowdb"
+    "testing"
   ],
   "author": "abelsan <abel@mit.edu>",
   "license": "MIT",
