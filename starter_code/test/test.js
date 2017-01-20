@@ -1,5 +1,5 @@
 var should = require('chai').should();
-var ex = require('../exercise.js');
+var ex = require('../solution.js');
 
 describe('Call 1st Function', function() {
 	it('Match Response Message', function() {
